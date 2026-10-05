@@ -1,16 +1,16 @@
 {
   "request": {
     "method": "GET",
-    "url": "http://127.0.0.1:34077/api/searches/S-06277d2a/results?sort=PRICE_ASC",
+    "url": "http://127.0.0.1:40769/api/searches/S-17238bd8/results?sort=PRICE_ASC",
     "headers": {},
     "data": null
   },
   "response": {
     "status": 200,
-    "correlationId": "94b52671-141d-40f8-9eca-a5a8576e2bf8",
+    "correlationId": "acff6030-d5dc-4955-baa5-c1518689bcdb",
     "body": {
-      "searchId": "S-06277d2a",
-      "sessionId": "a3caf82a-ed23-4824-a989-ec0fe9ae4b72",
+      "searchId": "S-17238bd8",
+      "sessionId": "8f7289fc-e87e-4612-8be6-5157751d6da8",
       "status": "RESULTS",
       "criteria": {
         "destination": "NYC",
